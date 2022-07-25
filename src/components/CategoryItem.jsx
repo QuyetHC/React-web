@@ -19,7 +19,7 @@ const Info = styled.div`
     height: 100%;
     display: flex;
     align-items: center ;
-    /* justify-content: center; */
+    justify-content: center;
     flex-direction: column;
 `
 const Title = styled.h1`

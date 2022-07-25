@@ -39,7 +39,7 @@ const Input = styled.input`
 
 const Center = styled.div`
   flex: 0.5;
-  text-items: center;
+  text-align: center;
 `
 
 const Logo = styled.h1`
@@ -54,7 +54,7 @@ const Right = styled.div`
 `
 
 const MenuItem = styled.div`
-  font-zise: 14px;
+  font-size: 14px;
   cursor: pointer;
   margin-left: 25px;
 `
